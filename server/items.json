@@ -1,0 +1,48 @@
+[
+  {
+    "id": 0,
+    "itemName": "酒仙网(仿)",
+    "itemInfo": "高仿酒仙网商城主页面搭建，相关技术:html+css+jQuery",
+    "itemUrl": "https://909288037.github.io/jiuxianwang/home/index.html",
+    "itemImg": "jxw.png",
+    "itemPosition": 0
+  },
+  {
+    "id": 1,
+    "itemName": "饿了吗(仿)",
+    "itemInfo": "webApp饿了吗选餐页面，相关技术:vue-cil+axios+better-scroll",
+    "itemUrl": "https://909288037.github.io/jiuxianwang/home/index.html",
+    "itemImg": "jxw.png",
+    "itemPosition": 0
+
+  },
+  {
+    "id": 2,
+    "itemName": "Vue电商平台",
+    "itemInfo": "使用Vue脚手架搭建电商平台，相关技术:vue-cil+vue-resource",
+    "itemUrl": "https://909288037.github.io/jiuxianwang/home/index.html",
+    "itemImg": "jxw.png",
+    "itemPosition": 1
+  },
+  {
+    "id": 3,
+    "itemName": "Vue电商平台",
+    "itemInfo": "使用Vue脚手架搭建电商平台，相关技术:vue-cil+vue-resource",
+
+    "itemPosition": 1
+  },
+  {
+    "id": 0,
+    "itemName": "酒仙网(仿)",
+    "itemInfo": "高仿酒仙网商城主页面搭建，相关技术:html+css+jQuery",
+    "itemUrl": "jxw.png",
+    "itemPosition": 0
+  },
+  {
+    "id": 1,
+    "itemName": "饿了吗(仿)",
+    "itemInfo": "webApp饿了吗选餐页面，相关技术:vue-cil+axios+better-scroll",
+    "itemUrl": "jxw.png",
+    "itemPosition": 0
+  }
+]
